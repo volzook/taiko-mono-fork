@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./packages/branding/RGB SVG (For Digital Use)/Taiko Icon/taiko-icon-blk.svg" width="80" alt="Logo for Taiko" />
 </p>
-
+#whendrop?
 <h1 align="center">
   Taiko
 </h1>
@@ -20,7 +20,7 @@
 
 </div>
 
-## Documentation
+## Documentation Taiko
 
 Documentation can be found on the website at [taiko.xyz](https://taiko.xyz). There is also a README in each package, as well as comments in the source code.
 
@@ -46,7 +46,7 @@ taiko-mono/
 
 If you find a bug or have a feature request, please [open an issue](https://github.com/taikoxyz/taiko-mono/issues/new/choose).
 
-## Contributing
+## Contributing Taiko
 
 Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to contribute.
 
