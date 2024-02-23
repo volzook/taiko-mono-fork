@@ -6,7 +6,7 @@
 - [Coding standards](#coding-standards)
 - [Documentation standards](#documentation-standards)
 
-## Make a contribution
+## Make a contribution for Taiko
 
 Here are some ways you can contribute:
 
