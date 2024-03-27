@@ -21,13 +21,13 @@
 
 </div>
 
-## Documentation
+## Documentation for Taiko
 
 End user documentation can be found at [docs.taiko.xyz](https://docs.taiko.xyz). Protocol specs can be found [here](./packages/protocol/docs/README.md).
 
 Each package of the monorepo is well documented and includes a README.
 
-## Project structure
+## Project Taiko structure 
 
 <pre>
 taiko-mono/
@@ -48,11 +48,11 @@ taiko-mono/
 ...
 </pre>
 
-## Issues
+## Issues of work
 
 If you find a bug or have a feature request, please [open an issue](https://github.com/taikoxyz/taiko-mono/issues/new/choose).
 
-## Contributing
+## Contributing Taiko
 
 Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to contribute.
 
